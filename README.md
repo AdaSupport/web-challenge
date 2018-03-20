@@ -85,4 +85,4 @@ The success page is the last page the client will land on. It should display a s
 - Feel free to use any language / framework that you choose
 - Assume that the cost per ticket is in USD
 - We highly recommend validating the incoming data (in the browser, on the server, or both)
-- Please give us instructiosn on how to start and view the web site in the PR!
+- Please give us instructions on how to start and view the web site in the PR!

@@ -22,7 +22,7 @@ When you're done, please open a pull request in this repository and we'll take a
 - We intentionally left things ambiguous so that you can be creative. If you'd rather have things specified more closely, we are happy to provide guidance. Just ask!
 - Feel free to use any technology and programming language that you'd like
 
-### Specifications
+## Specifications
 
 Your solution should start a web server on any port you'd like. Please include instructions on how to start your server (so that we can test the functionality).
 
